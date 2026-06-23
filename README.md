@@ -40,23 +40,23 @@ Este proyecto sirve como punto de partida para aprender conceptos fundamentales 
 
 ## Estructura Principal del Proyecto
 
-```text
-flutter_prueba01/
-│
-├── android/              # Archivos de configuración para Android
-├── ios/                  # Archivos de configuración para iOS
-├── lib/                  # Código principal de la aplicación
-│   └── main.dart         # Archivo principal del proyecto
-├── linux/                # Configuración para Linux
-├── macos/                # Configuración para macOS
-├── test/                 # Archivos de pruebas
-├── web/                  # Configuración para aplicación web
-├── windows/              # Configuración para Windows
-├── pubspec.yaml          # Configuración de dependencias y recursos
-├── pubspec.lock          # Registro de versiones exactas de paquetes
-├── analysis_options.yaml # Reglas de análisis del código
-└── README.md             # Documentación del proyecto
-```
+  ```text
+  flutter_prueba01/
+  │
+  ├── android/              # Archivos de configuración para Android
+  ├── ios/                  # Archivos de configuración para iOS
+  ├── lib/                  # Código principal de la aplicación
+  │   └── main.dart         # Archivo principal del proyecto
+  ├── linux/                # Configuración para Linux
+  ├── macos/                # Configuración para macOS
+  ├── test/                 # Archivos de pruebas
+  ├── web/                  # Configuración para aplicación web
+  ├── windows/              # Configuración para Windows
+  ├── pubspec.yaml          # Configuración de dependencias y recursos
+  ├── pubspec.lock          # Registro de versiones exactas de paquetes
+  ├── analysis_options.yaml # Reglas de análisis del código
+  └── README.md             # Documentación del proyecto
+  ```
 
 ---
 
@@ -80,27 +80,27 @@ Si todo está correctamente configurado, deberá aparecer un mensaje indicando q
 
 1. Clonar este repositorio en la máquina local:
 
-```
-Shellgit clone URL_DEL_REPOSITORIO``Mostrar más líneas
-```
+  ```
+  Shellgit clone URL_DEL_REPOSITORIO``Mostrar más líneas
+  ```
 
 2. Entrar a la carpeta del proyecto:
 
-```
-Shellcd flutter_prueba01Mostrar más líneas
-```
+  ```
+  Shellcd flutter_prueba01Mostrar más líneas
+  ```
 
 3. Obtener las dependencias del proyecto:
 
-```
-Shellflutter pub getMostrar más líneas
-```
+  ```
+  Shellflutter pub getMostrar más líneas
+  ```
 
 4. Ejecutar la aplicación:
 
-```
-Shellflutter runMostrar más líneas
-```
+  ```
+  Shellflutter runMostrar más líneas
+  ```
 
 ---
 
